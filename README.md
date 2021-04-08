@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Razergy
 - 👀 I’m interested in learning HTML and CSS
 - 🌱 I’m currently working on a Discord Bot
-- 💞️ I’m looking to collaborate making the Discord Bot
+- 👥 I’m looking to collaborate making the Discord Bot
 - 📫 You can find me on discord (Razergy#7874)
 - 🇷🇴 I am romanian BTW :)
 
