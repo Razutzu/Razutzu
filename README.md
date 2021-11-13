@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Razergy
-- 👀 I’m interested in learning HTML and CSS
+- 👋 Hi, I’m Razutzu
+- 👀 I’m interested in learning Python
 - 🌱 I’m currently working on a Discord Bot
 - 👥 I’m looking to collaborate making the Discord Bot
 - 📫 You can find me on discord (Razergy#7874)
