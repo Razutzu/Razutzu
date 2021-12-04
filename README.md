@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Razutzu
 - 👀 I’m interested in learning Python
 - 🌱 I’m currently working on a Discord Bot
-- 👥 I’m looking to collaborate making the Discord Bot
-- 📫 You can find me on discord (Razergy#7874)
+- 👥 I’m looking to collaborate on making the Discord Bot
+- 📫 You can find me on discord (Razutzu#3768)
 - 🇷🇴 I am romanian BTW :)
 
 <!---
