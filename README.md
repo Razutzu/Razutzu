@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Python
 - 🌱 I’m currently working on a Discord Bot
 - 👥 I’m looking to collaborate on making the Discord Bot
-- 📫 You can find me on discord (Razutzu#0698)
+- 📫 You can find me on Discord: Razutzu#0698
 - 🇷🇴 I am romanian BTW :)
 
 <!---
