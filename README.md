@@ -1,8 +1,8 @@
 # 💫About Me :
 - 👋 Hi, I’m Razutzu
-- 👀 I’m interested in learning Python
+- 👀 I’m interested in learning lUA
 - 🌱 I’m currently working on Discord Bots
-- 📫 You can find me on Discord: Razutzu#0698
+- 📫 You can find me on Discord: Razutzu#6969
 - 🇷🇴 I am from Romania
 
 ## 🌐Socials
