@@ -1,9 +1,9 @@
 # 💫About Me :
 - 👋 Hi, I’m Razutzu
-- 👀 I’m interested in learning Lua
+- 👀 I’m interested in learning [Advanced JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 - 🌱 I’m currently working on Discord Bots
-- 📫 You can find me on Discord: Razutzu#6666
-- 🇷🇴 I am from Romania
+- 📫 You can find me on Discord: Razutzu#0001
+- 🇷🇴 I am from [Moldova](https://en.wikipedia.org/wiki/Moldova)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ady._.03) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/razutzu) 
