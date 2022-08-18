@@ -1,8 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m Razutzu
 - 👀 I’m interested in learning [Advanced JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
-- 🌱 I’m currently working on [UNO!](https://github.com/Razutzu/uno-game-bot)
-- 📫 You can find me on Discord: Razutzu#0001
+- 📫 You can find me on Discord: Razutzuﾉᴸᵂ#3434
 - 🇷🇴 I am from [Moldova](https://en.wikipedia.org/wiki/Moldova)
 
 ## 🌐Socials
