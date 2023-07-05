@@ -1,6 +1,5 @@
 # 💫About Me :
 - 👋 Hi, I’m Razutzu
-- 👀 I’m interested in learning [Advanced JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
 - 📫 You can find me on Discord: [@razutzu](https://discord.com/users/987034028043563090)
 - 🇷🇴 I am from [Moldova](https://en.wikipedia.org/wiki/Moldova)
 
