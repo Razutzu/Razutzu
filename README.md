@@ -1,7 +1,7 @@
 # 💫About Me :
 - 👋 Hi, I’m Razutzu
 - 📫 You can find me on Discord: [@razutzu](https://discord.com/users/987034028043563090)
-- 🇷🇴 I am from [Moldova](https://en.wikipedia.org/wiki/Moldova)
+- 🇲🇩 I am from [Moldova](https://en.wikipedia.org/wiki/Moldova)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ady._.93) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/razutzu) 
