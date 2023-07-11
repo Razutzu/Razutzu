@@ -3,25 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razutzu&label=Profile%20views&color=0e75b6&style=flat" alt="razutzu" /> </p>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on: **nothing**
 
-- 🌱 I’m currently learning **nothing**
+- 🌱 I’m currently learning: **nothing**
 
-- 👯 I’m looking to collaborate on **nothing**
+- 👯 I’m looking to collaborate on: **nothing**
 
-- 🤝 I’m looking for help with **nothing**
+- 🤝 I’m looking for help with: **nothing**
 
-- 👨‍💻 All of my projects are available at [nowhere](nowhere)
+- 💬 Ask me about: **nothing**
 
-- 📝 I regularly write articles on [nothing](nothing)
+- 📫 How to reach me: **you can't**
 
-- 💬 Ask me about **nothing**
-
-- 📫 How to reach me **you can't**
-
-- 📄 Know about my experiences [nope](nope)
-
-- ⚡ Fun fact **nothing**
+- ⚡ Fun fact: **nothing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
