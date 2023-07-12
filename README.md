@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razutzu</h1>
-<h3 align="center">I am from Moldova, a very very cool country (full of racism, feminism, sexism, etc.)</h3>
+<h3 align="center">I am from Moldova, a very very cool country (get me out of here pls i'm dying)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razutzu&label=Profile%20views&color=0e75b6&style=flat" alt="razutzu" /> </p>
 
